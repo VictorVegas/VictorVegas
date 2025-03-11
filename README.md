@@ -29,3 +29,4 @@ Im a **Computer Ingeneering** student at <ins>**Universidad Técnica Feredico Sa
 - Django
 - JavaFx
 - Unity
+- Rocky Linux
