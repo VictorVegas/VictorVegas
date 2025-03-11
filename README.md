@@ -10,7 +10,7 @@ Im a **Computer Ingeneering** student at <ins>**Universidad Técnica Feredico Sa
 * I'm currently still studying 💻 yet im open to work if possible :bowtie::+1:.
 * I'm always open to learn new skills, currently all into gihub education since i've been trying to get it for 2 years and just got approved 😞☔.
 * Im a dogs guy 🐶🐕🦮.
-* Besides Coding i like to game :shipit:🎮👽 and play Music 🎼🎹🎶.
+* Besides Coding i like to game :feelsgood:🎮👽 and play Music 🎼🎹🎶.
 
 ## Languages i've used while studying
 - C++
